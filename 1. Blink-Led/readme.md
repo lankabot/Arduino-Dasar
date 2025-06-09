@@ -16,4 +16,4 @@ Tutorial ini menunjukkan cara membuat LED berkedip menggunakan mikrokontroler (s
 2. Hubungkan kaki katoda (pendek) LED ke salah satu ujung resistor 220Ω.
 3. Ujung resistor lainnya ke GND.
 
-![circuit](https://github.com/user-attachments/assets/4d5c67f3-ede3-4bab-9047-44feec4b64da)
+![https://github.com/lankabot/Arduino-Dasar/blob/main/1.%20Blink-Led/circuit.png)
